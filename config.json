@@ -1,0 +1,6 @@
+{
+  "label": "Syncthing",
+  "icon": "syncthing.png",
+  "launch": "Syncthing.sh",
+  "description": "Sync files between devices"
+}
